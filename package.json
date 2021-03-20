@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@acme/common": "1.0.0",
-    "@acme/services": "1.0.0",
+    "@acme/services": "1.0.0", 
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
